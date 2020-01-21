@@ -1,2 +1,2 @@
-# Coursera
-assignment
+# Coursera R programming 
+assignment 2
